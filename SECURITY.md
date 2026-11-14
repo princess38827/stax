@@ -19,3 +19,4 @@ Use this section to tell people how to report a vulnerability.
 Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
+SHA2566c57dead50c7af4f73d9a7533942225f22205123
